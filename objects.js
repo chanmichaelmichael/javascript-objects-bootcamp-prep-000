@@ -1,4 +1,4 @@
-var playlist = {}
+var playlist = {Bono:'Song one'}
 //artist, title pair not necessarily lined updatePlaylist
 
 function updatePlaylist(playlist,name,title){
